@@ -2,11 +2,14 @@
 
 INDICE
 
-|[**CREAZIONE DI UN IDENTITA'**]()|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**|
+|[**CREAZIONE DI UN IDENTITÁ**]()|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**|
 | :--- | :---: | :---: | :---: | :---: |
 |[**METTIAMO LA PRIVACY NEI NOSTRI PROFILI SOCIAL**]()|**Facebook**|**Instagram**|**Telegram**|**WhatsApp**|
 |[**CREAZIONE DELL'AMBIENTE DI LAVORO**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|[**VPN**](https://github.com/CScorza/Data-Protection#alto)|[**VIRTUALIZZAZIONE**](https://github.com/CScorza/DistroForensics#software-di-virtualizzazione)|[**ISO per L'OSINT**](https://github.com/CScorza/DistroForensics#iso)||
 |[**Fonti**]()|||||
+
+
+# CREAZIONE DI UN IDENTITÁ
 
 PERCHE CREARE UN PROFILO FAKE NELLE INDAGINI OSINT?
 ```
