@@ -1,6 +1,6 @@
 ![Home](https://user-images.githubusercontent.com/98583912/206860785-3b7c6e96-ad58-478e-ae5c-378eba06e6db.gif)
 
-INDICE
+**INDICE**
 
 |[**CREAZIONE DI UN IDENTITÁ**](https://github.com/CScorza/OSINTAnonimus#creazione-di-un-identit%C3%A1)|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**|
 | :--- | :---: | :---: | :---: | :---: |
