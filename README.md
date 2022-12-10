@@ -2,11 +2,11 @@
 
 INDICE
 
-|[**CREAZIONE DI UN IDENTITÁ**]()|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**|
+|[**CREAZIONE DI UN IDENTITÁ**](https://github.com/CScorza/OSINTAnonimus#creazione-di-un-identit%C3%A1)|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**|
 | :--- | :---: | :---: | :---: | :---: |
-|[**METTIAMO LA PRIVACY NEI NOSTRI PROFILI SOCIAL**]()|**Facebook**|**Instagram**|**Telegram**|**WhatsApp**|
+|[**METTIAMO LA PRIVACY NEI NOSTRI PROFILI SOCIAL**](https://github.com/CScorza/OSINTAnonimus#mettiamo-la-privacy-nei-nostri-profili-social)|**Facebook**|**Instagram**|**Telegram**|**WhatsApp**|
 |[**CREAZIONE DELL'AMBIENTE DI LAVORO**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|[**VPN**](https://github.com/CScorza/Data-Protection#alto)|[**VIRTUALIZZAZIONE**](https://github.com/CScorza/DistroForensics#software-di-virtualizzazione)|[**ISO per L'OSINT**](https://github.com/CScorza/DistroForensics#iso)||
-|[**Fonti**]()|||||
+|[**Fonti**](https://github.com/CScorza/OSINTAnonimus#fonti)|||||
 
 
 # CREAZIONE DI UN IDENTITÁ
