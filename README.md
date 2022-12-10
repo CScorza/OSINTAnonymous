@@ -10,7 +10,8 @@ INDICE
 
 PERCHE CREARE UN PROFILO FAKE NELLE INDAGINI OSINT?
 ```
-É importante per preservare l'ambiente di lavoro e non lasciare o limitare il lascito di tracce personali sul web.
+É importante per preservare l'ambiente di lavoro e non lasciare o 
+limitare il lascito di tracce personali sul web.
 ```
 Che tipo di OSINT Vuoi fare?
 ```
@@ -20,7 +21,8 @@ ATTIVO - Significa che stai interagendo con un target in qualche modo,
 
 In ogni caso per mimetizzarti al meglio, ti serviranno una serie di servizi al fine di 
 ottimizzare i tuoi profili o il tuo ambiente di lavoro.
-Qui sotto troverai una serie di Strumenti utili al fine di creare un profilo social quanto più credibile al fine di renderti 
+Qui sotto troverai una serie di Strumenti utili al fine di creare un profilo social quanto 
+più credibile al fine di renderti 
 quanto più credibile possibile, agli occhi del social e dei suoi sistemi anti fake. 
 ```
 
