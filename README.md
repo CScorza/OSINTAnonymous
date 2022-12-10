@@ -72,9 +72,21 @@ quanto più credibile possibile, agli occhi del social e dei suoi sistemi anti f
 |[**Twilio**](http://twilio.com/)|[**Vumber**](http://vumber.com/)|[**Esendex**](http://esendex.co.uk/)|[**Text Magic**](http://textmagic.com/)
 |[**WP Pinger**](http://wp.pinger.com/)|[**Burst SMS.com**](http://burstsms.com.au/)|[**Country Code.org**](http://countrycode.org/)||
 
-**VOLTI FAKE**
+```
+Nota Bene: 
+Molti servizi, rivelano questi numeri e in automatico non fanno proseguire con la registrazione. 
+L'Alternativa può essere l'acquisto di numeri tramite moneta virtuale.
+Di recente Telegram ha anche integrato questo servizio. 
+```
+![Immagine1](https://user-images.githubusercontent.com/98583912/206870215-b05f6668-07ce-4cd4-a0d4-0af2d3387875.gif)
 
-![Immagine15](https://user-images.githubusercontent.com/98583912/206861796-f680422b-5e57-43d8-ba23-ccebf2ee326b.gif)
+|[**Telegram - Anonyomus Login**](https://telegram.org/blog/ultimate-privacy-topics-2-0/it?ln=a)||
+|:--- | :--- |
+|[**Guida all'Acquisto**](https://thenerdinthehighcastle.wordpress.com/2022/11/20/telegram-and-toncoin-part-1/)|**Numeri per Telegram con Toncoin**|
+|[**SMS-Man.com**](https://sms-man.com/?ref=softstore)|**Numeri Virtuali**|
+|[**KrispCall**](https://krispcall.com/virtual-phone-number/)|**Numeri Virtuali**|
+
+**VOLTI FAKE**
 
 |[**this Person does not Exist**](https://thispersondoesnotexist.com/)|[**Generated Photos - face generator**](https://generated.photos/face-generator)|[**Generated Photos Anonymizer**](https://generated.photos/anonymizer)|
 | :--- | :--- | :--- |
@@ -141,7 +153,6 @@ Per modificare le impostazioni sulla privacy:
 |3 - |Sotto Privacy dell'account, clicca per selezionare la casella accanto ad Account privato.|
 
 ![Insta](https://user-images.githubusercontent.com/98583912/206857741-2c3d6037-da19-48d9-87ff-f32ab0873c4a.gif)
-
 
 ![WP](https://user-images.githubusercontent.com/98583912/206857825-c1472473-49af-43d3-848d-47f18a138153.gif)
 
