@@ -11,12 +11,12 @@
 
 # CREAZIONE DI UN IDENTITÁ
 
-PERCHE CREARE UN PROFILO FAKE NELLE INDAGINI OSINT?
+**PERCHE CREARE UN PROFILO FAKE NELLE INDAGINI OSINT?**
 ```
 É importante per preservare l'ambiente di lavoro e non lasciare o 
 limitare il lascito di tracce personali sul web.
 ```
-Che tipo di OSINT Vuoi fare?
+**Che tipo di OSINT Vuoi fare?**
 ```
 PASSIVO - Significa che non interagisci con un bersaglio.
 ATTIVO - Significa che stai interagendo con un target in qualche modo, 
@@ -24,10 +24,24 @@ ATTIVO - Significa che stai interagendo con un target in qualche modo,
 
 In ogni caso per mimetizzarti al meglio, ti serviranno una serie di servizi al fine di 
 ottimizzare i tuoi profili o il tuo ambiente di lavoro.
-Qui sotto troverai una serie di Strumenti utili al fine di creare un profilo social quanto 
+Qui sotto troverai una serie di strumenti utili al fine di creare un profilo social quanto 
 più credibile al fine di renderti 
 quanto più credibile possibile, agli occhi del social e dei suoi sistemi anti fake. 
 ```
+**Quali sono i passi da fare?**
+```
+- Usa telefono masterizzato
+- Usa un Software di Virtualizzazione di Iso
+- Usa VPN o Tor Browser
+- Crea una nuova e-mail
+- Nome del profilo/Nome utente diverso 
+- Immagine del profilo
+- Aggiunhi Follower/amici - Attività del profilo costante.
+
+N.B.
+Evita qualsiasi collegamento con i tuoi accaunt reali
+```
+
 
 **BIOGRAFIA**
 
