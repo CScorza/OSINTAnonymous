@@ -228,9 +228,11 @@ Come aumentare il livello di privacy del tuo profilo Telegram o in caso di bisog
 
 # FONTI
 
-[**Creating Research Accounts for OSINT Investigations**](https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations/)
 
-[](https://osintcurio.us/2022/05/17/corporate-osint-for-social-engineering/)
+|[**Creating Research Accounts for OSINT Investigations**](https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations/)|
+| :--- |
+|[**Crea un profilo di sock puppet per l'indagine OSINT**](https://medium.com/@p4c3n0g3/create-sock-puppet-profile-for-osint-investigation-9235d8503814)|
+|[**Corporate Osint for Social Engineering**](https://osintcurio.us/2022/05/17/corporate-osint-for-social-engineering/)|
 
 ![OFF](https://user-images.githubusercontent.com/98583912/206862412-50ef5615-bca2-4eb3-bf38-228cbfff54b1.gif)
 
