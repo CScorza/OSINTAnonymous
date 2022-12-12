@@ -1,22 +1,20 @@
-![Home](https://user-images.githubusercontent.com/98583912/206860785-3b7c6e96-ad58-478e-ae5c-378eba06e6db.gif)
+![Home](https://user-images.githubusercontent.com/98583912/207063495-05d7b914-7ffe-4b96-8ab5-ba7bbe219251.gif)
 
-**INDICE**
 
-|[**CREAZIONE DI UN IDENTITÁ**](https://github.com/CScorza/OSINTAnonimus#creazione-di-un-identit%C3%A1)|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**|
+INDICE
+
+|[**CREAZIONE DI UN IDENTITA'**]()|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**|
 | :--- | :---: | :---: | :---: | :---: |
-|[**METTIAMO LA PRIVACY NEI NOSTRI PROFILI SOCIAL**](https://github.com/CScorza/OSINTAnonimus#mettiamo-la-privacy-nei-nostri-profili-social)|**Facebook**|**Instagram**|**Telegram**|**WhatsApp**|
+|[**METTIAMO LA PRIVACY NEI NOSTRI PROFILI SOCIAL**]()|**Facebook**|**Instagram**|**Telegram**|**WhatsApp**|
 |[**CREAZIONE DELL'AMBIENTE DI LAVORO**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|[**VPN**](https://github.com/CScorza/Data-Protection#alto)|[**VIRTUALIZZAZIONE**](https://github.com/CScorza/DistroForensics#software-di-virtualizzazione)|[**ISO per L'OSINT**](https://github.com/CScorza/DistroForensics#iso)||
-|[**Fonti**](https://github.com/CScorza/OSINTAnonimus#fonti)|||||
+|[**Fonti**]()|||||
 
-
-# CREAZIONE DI UN IDENTITÁ
-
-**PERCHE CREARE UN PROFILO FAKE NELLE INDAGINI OSINT?**
+PERCHE CREARE UN PROFILO FAKE NELLE INDAGINI OSINT?
 ```
 É importante per preservare l'ambiente di lavoro e non lasciare o 
 limitare il lascito di tracce personali sul web.
 ```
-**Che tipo di OSINT Vuoi fare?**
+Che tipo di OSINT Vuoi fare?
 ```
 PASSIVO - Significa che non interagisci con un bersaglio.
 ATTIVO - Significa che stai interagendo con un target in qualche modo, 
@@ -24,24 +22,10 @@ ATTIVO - Significa che stai interagendo con un target in qualche modo,
 
 In ogni caso per mimetizzarti al meglio, ti serviranno una serie di servizi al fine di 
 ottimizzare i tuoi profili o il tuo ambiente di lavoro.
-Qui sotto troverai una serie di strumenti utili al fine di creare un profilo social quanto 
+Qui sotto troverai una serie di Strumenti utili al fine di creare un profilo social quanto 
 più credibile al fine di renderti 
 quanto più credibile possibile, agli occhi del social e dei suoi sistemi anti fake. 
 ```
-**Quali sono i passi da fare?**
-```
-- Usa telefono masterizzato
-- Usa un Software di Virtualizzazione di Iso
-- Usa VPN o Tor Browser
-- Crea una nuova e-mail
-- Nome del profilo/Nome utente diverso 
-- Immagine del profilo
-- Aggiunhi Follower/amici - Attività del profilo costante.
-
-N.B.
-Evita qualsiasi collegamento con i tuoi accaunt reali
-```
-
 
 **BIOGRAFIA**
 
@@ -86,21 +70,9 @@ Evita qualsiasi collegamento con i tuoi accaunt reali
 |[**Twilio**](http://twilio.com/)|[**Vumber**](http://vumber.com/)|[**Esendex**](http://esendex.co.uk/)|[**Text Magic**](http://textmagic.com/)
 |[**WP Pinger**](http://wp.pinger.com/)|[**Burst SMS.com**](http://burstsms.com.au/)|[**Country Code.org**](http://countrycode.org/)||
 
-```
-Nota Bene: 
-Molti servizi, rivelano questi numeri e in automatico non fanno proseguire con la registrazione. 
-L'Alternativa può essere l'acquisto di numeri tramite moneta virtuale.
-Di recente Telegram ha anche integrato questo servizio. 
-```
-![Immagine1](https://user-images.githubusercontent.com/98583912/206870215-b05f6668-07ce-4cd4-a0d4-0af2d3387875.gif)
-
-|[**Telegram - Anonyomus Login**](https://telegram.org/blog/ultimate-privacy-topics-2-0/it?ln=a)||
-|:--- | :--- |
-|[**Guida all'Acquisto**](https://thenerdinthehighcastle.wordpress.com/2022/11/20/telegram-and-toncoin-part-1/)|**Numeri per Telegram con Toncoin**|
-|[**SMS-Man.com**](https://sms-man.com/?ref=softstore)|**Numeri Virtuali**|
-|[**KrispCall**](https://krispcall.com/virtual-phone-number/)|**Numeri Virtuali**|
-
 **VOLTI FAKE**
+
+![Immagine15](https://user-images.githubusercontent.com/98583912/206861796-f680422b-5e57-43d8-ba23-ccebf2ee326b.gif)
 
 |[**this Person does not Exist**](https://thispersondoesnotexist.com/)|[**Generated Photos - face generator**](https://generated.photos/face-generator)|[**Generated Photos Anonymizer**](https://generated.photos/anonymizer)|
 | :--- | :--- | :--- |
@@ -168,6 +140,7 @@ Per modificare le impostazioni sulla privacy:
 
 ![Insta](https://user-images.githubusercontent.com/98583912/206857741-2c3d6037-da19-48d9-87ff-f32ab0873c4a.gif)
 
+
 ![WP](https://user-images.githubusercontent.com/98583912/206857825-c1472473-49af-43d3-848d-47f18a138153.gif)
 
 [**Whastapp**](https://faq.whatsapp.com/3307102709559968/?locale=it_IT)
@@ -215,24 +188,22 @@ Come aumentare il livello di privacy del tuo profilo Telegram o in caso di bisog
 
 ||||
 | :--- | :--- | :--- |
-|1- |NASCONDERE LA FOTO PROFILO |Quando carichi la tua foto profilo scegli accuratamente a chi mostrarla. Telegram ti offre diverse possibilità, sia l’inserimento di singoli ban, sia l’oscuramento totale.|
-|2- |NASCONDERE IL NUMERO DI TELEFONO|Puoi nascondere a tutti i il tuo numero telefonico, anche ai tuoi contatti di rubrica. Potrai usare Telegram senza mostrare il numero alle persone che ti scrivono.
-|3- |OMETTERE LA BIO|La bio del tuo profilo Telegram non è obbligatoria, non inserirla se non vuoi o non ne hai necessità.|
-|4- |IMPEDIRE DI ESSERE INCLUSO AUTOMATICAMENTE IN GRUPPI E CANALI|Quanto è odioso che qualcuno su WhatsApp o Telegram ti inserisca, senza la tua autorizzazione, in gruppi e canali di cui potresti fare pure a meno? Ecco, tramite le impostazioni puoi selezionare o scegliere chi può aggiungerti.|
-|5- |NON INSERIRE IL NOME UTENTE|Non tutti sanno che se inserisci il nome utente, il profilo Telegram, diventa automaticamente “pubblico” (cioè ricercabile o diffondibile tramite link). Se non ne hai necessità, ometti l’informazione così nessuno potrò trovarlo con ricerca o condividerne il link (ed eviterai anche menzioni su gruppi o canali).|
-|6- |GESTIRE L’INOLTRO|Attraverso la privacy del tuo profilo puoi impedire che il tuo nome risulti cliccabile qualora uno dei tuoi messaggi venisse inoltrato in altre chat, gruppi o canali.|
-|7- |BLOCCARE LE CHIAMATE|Attraverso Telegram, in base alla scelta che hai fatto di inserire o meno lo username, potresti ricevere chiamate. Seleziona dalle impostazioni di privacy che non vuoi ricevere chiamate da nessuno (o filtra in base alle preferenze).|
-|8- |BLOCCARE SINGOLI UTENTI|Quando qualcuno ti contatta e non vuoi ricevere suoi messaggi, basterà bloccarlo direttamente dalla chat premendo su “Blocca”. Ricorda di segnalare la conversazione prima di cancellarla (permetterai allo staff di effettuare i dovuti controlli).|
-|9- |CANCELLARE BIDIREZIONALMENTE|Nessuno ti possiede, e nessuno può posseder le conversazioni che scambi con gli altri. Su questa linea Telegram ha introdotto lo scorso anno la possibilità per tutti di cancellare cronologia e chat anche per l’altro dispositivo coinvolto nella conversazione. Telegram è l’unica piatatforma al mondo ad aver realizzato una cosa simile poiché la cancellazione non ha limiti temporali (lo puoi fare in qualsiasi momento).|
-|10- |IMPOSTARE IL TIMER DI AUTODISTRUZIONE|Quando invii un’immagine o un video puoi selezionarne l’autodistruzione così eviti che l’immagine/video venga inoltrata a terzi. Così facendo, inserendo un timer con brevi lassi di tempo, eviti screenshot. Attenzione: i media che invii in chat normali rimangono salvati comunque nel tuo archivio (la memoria dello smartphone per intenderci) e in quello del ricevente.|
+|1 - |NASCONDERE LA FOTO PROFILO |Quando carichi la tua foto profilo scegli accuratamente a chi mostrarla. Telegram ti offre diverse possibilità, sia l’inserimento di singoli ban, sia l’oscuramento totale.|
+|2 - |NASCONDERE IL NUMERO DI TELEFONO|Puoi nascondere a tutti i il tuo numero telefonico, anche ai tuoi contatti di rubrica. Potrai usare Telegram senza mostrare il numero alle persone che ti scrivono.
+|3 - |OMETTERE LA BIO|La bio del tuo profilo Telegram non è obbligatoria, non inserirla se non vuoi o non ne hai necessità.|
+|4 - |IMPEDIRE DI ESSERE INCLUSO AUTOMATICAMENTE IN GRUPPI E CANALI|Quanto è odioso che qualcuno su WhatsApp o Telegram ti inserisca, senza la tua autorizzazione, in gruppi e canali di cui potresti fare pure a meno? Ecco, tramite le impostazioni puoi selezionare o scegliere chi può aggiungerti.|
+|5 - |NON INSERIRE IL NOME UTENTE|Non tutti sanno che se inserisci il nome utente, il profilo Telegram, diventa automaticamente “pubblico” (cioè ricercabile o diffondibile tramite link). Se non ne hai necessità, ometti l’informazione così nessuno potrò trovarlo con ricerca o condividerne il link (ed eviterai anche menzioni su gruppi o canali).|
+|6 - |GESTIRE L’INOLTRO|Attraverso la privacy del tuo profilo puoi impedire che il tuo nome risulti cliccabile qualora uno dei tuoi messaggi venisse inoltrato in altre chat, gruppi o canali.|
+|7 - |BLOCCARE LE CHIAMATE|Attraverso Telegram, in base alla scelta che hai fatto di inserire o meno lo username, potresti ricevere chiamate. Seleziona dalle impostazioni di privacy che non vuoi ricevere chiamate da nessuno (o filtra in base alle preferenze).|
+|8 - |BLOCCARE SINGOLI UTENTI|Quando qualcuno ti contatta e non vuoi ricevere suoi messaggi, basterà bloccarlo direttamente dalla chat premendo su “Blocca”. Ricorda di segnalare la conversazione prima di cancellarla (permetterai allo staff di effettuare i dovuti controlli).|
+|9 - |CANCELLARE BIDIREZIONALMENTE|Nessuno ti possiede, e nessuno può posseder le conversazioni che scambi con gli altri. Su questa linea Telegram ha introdotto lo scorso anno la possibilità per tutti di cancellare cronologia e chat anche per l’altro dispositivo coinvolto nella conversazione. Telegram è l’unica piatatforma al mondo ad aver realizzato una cosa simile poiché la cancellazione non ha limiti temporali (lo puoi fare in qualsiasi momento).|
+|10 - |IMPOSTARE IL TIMER DI AUTODISTRUZIONE|Quando invii un’immagine o un video puoi selezionarne l’autodistruzione così eviti che l’immagine/video venga inoltrata a terzi. Così facendo, inserendo un timer con brevi lassi di tempo, eviti screenshot. Attenzione: i media che invii in chat normali rimangono salvati comunque nel tuo archivio (la memoria dello smartphone per intenderci) e in quello del ricevente.|
 
 # FONTI
 
+[**Creating Research Accounts for OSINT Investigations**](https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations/)
 
-|[**Creating Research Accounts for OSINT Investigations**](https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations/)|
-| :--- |
-|[**Crea un profilo di sock puppet per l'indagine OSINT**](https://medium.com/@p4c3n0g3/create-sock-puppet-profile-for-osint-investigation-9235d8503814)|
-|[**Corporate Osint for Social Engineering**](https://osintcurio.us/2022/05/17/corporate-osint-for-social-engineering/)|
+[](https://osintcurio.us/2022/05/17/corporate-osint-for-social-engineering/)
 
 ![OFF](https://user-images.githubusercontent.com/98583912/206862412-50ef5615-bca2-4eb3-bf38-228cbfff54b1.gif)
 
