@@ -99,9 +99,15 @@ Di recente Telegram ha anche integrato questo servizio.
 
 **VOLTI FAKE**
 
+![Immagine9](https://user-images.githubusercontent.com/98583912/207675779-23d9e4d2-5208-42f8-a086-9e5a8ab5d3a2.gif)
+
 |[**this Person does not Exist**](https://thispersondoesnotexist.com/)|[**Generated Photos - face generator**](https://generated.photos/face-generator)|[**Generated Photos Anonymizer**](https://generated.photos/anonymizer)|
 | :--- | :--- | :--- |
 |[**Fake Person Generator**](https://www.fakepersongenerator.com/Index/generate)|[**My Heritage.it deep Nostalgia - Foto Animate**](https://www.myheritage.it/deep-nostalgia)|[**Picdefacer.com**](https://picdefacer.com/en/)|
+
+|**Strumenti Mobile**|||
+| :--- | :--- | :--- |
+|[**FaceApp**](https://www.faceapp.com/)|[**Android**](https://play.google.com/store/apps/details?id=io.faceapp&hl=it&gl=US)|[**Apple**](https://apps.apple.com/it/app/faceapp-editor-viso-perfetto/id1180884341)|
 
 
 # METTIAMO LA PRIVACY NEI NOSTRI PROFILI SOCIAL
