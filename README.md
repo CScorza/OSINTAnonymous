@@ -223,11 +223,29 @@ Come aumentare il livello di privacy del tuo profilo Telegram o in caso di bisog
 |9- |CANCELLARE BIDIREZIONALMENTE|Nessuno ti possiede, e nessuno può posseder le conversazioni che scambi con gli altri. Su questa linea Telegram ha introdotto lo scorso anno la possibilità per tutti di cancellare cronologia e chat anche per l’altro dispositivo coinvolto nella conversazione. Telegram è l’unica piatatforma al mondo ad aver realizzato una cosa simile poiché la cancellazione non ha limiti temporali (lo puoi fare in qualsiasi momento).|
 |10- |IMPOSTARE IL TIMER DI AUTODISTRUZIONE|Quando invii un’immagine o un video puoi selezionarne l’autodistruzione così eviti che l’immagine/video venga inoltrata a terzi. Così facendo, inserendo un timer con brevi lassi di tempo, eviti screenshot. Attenzione: i media che invii in chat normali rimangono salvati comunque nel tuo archivio (la memoria dello smartphone per intenderci) e in quello del ricevente.|
 
+# Email Sicure
 
+**Cos'è la Criptografia?**
+```
+La crittografia delle email consiste nel rimescolarne il contenuto, come se si trattasse dei 
+pezzi di un puzzle che solo tu puoi risolvere (con la tua chiave privata). 
+Per cifrare e decifrare le email viene utilizzata l’infrastruttura a chiave pubblica (PKI), 
+che assegna a ogni persona una chiave pubblica e una privata sotto forma di codici digitali.
+
+La chiave pubblica viene conservata su un server insieme al nome e all’indirizzo email dell’utente, 
+ed è accessibile a chiunque. La chiave pubblica serve per criptare le emai
+
+```
+
+![Immagine7](https://user-images.githubusercontent.com/98583912/207672758-d4afb001-4007-48b3-b6ab-de4e05b2b5e6.gif)
+
+|[**ProtonMail**](https://proton.me/mail)|[**Mailbox**](https://mailbox.org/en/)|[**Mailfence**](https://mailfence.com/)|[**Kolab Now**](https://kolabnow.com/)|
+| :--- | :--- | :--- | :--- |  
 
 ![Immagine2](https://user-images.githubusercontent.com/98583912/207068670-97b16925-e829-4ccd-badd-48cad7ac3b06.gif)
 
-[**TOR BROWSER**](https://www.torproject.org/it/)
+|[**TOR BROWSER**](https://www.torproject.org/it/)|[**CScorza - OSINTInvestigation/Deep Web - Istruzioni**](https://github.com/CScorza/OSINTInvestigation#cybercrime)|
+| :--- | :--- |
 
 ![Immagine3](https://user-images.githubusercontent.com/98583912/207066803-94135a66-d02e-466b-9984-e9f1af559b31.gif)
 
@@ -255,4 +273,4 @@ cybersecurity360.it
 
 |**ATTENZIONE**|
 | :---: | 
-|**OGNI TOOL O TECNICA RIPORTATE QUI, SONO DA CONSIDERARSI PURAMENTE A SCOPI DI RICERCA E ACCADEMICI.**|
+|**OGNI TOOL O TECNICA RIPORTATE QUI, SONO DA CONSIDERARSI PURAMENTE A SCOPI DI RICERCA E ACCADEMICI.**
