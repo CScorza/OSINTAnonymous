@@ -22,8 +22,10 @@ PASSIVO - Significa che non interagisci con un bersaglio.
 ATTIVO - Significa che stai interagendo con un target in qualche modo, 
          ad esempio aggiungendo il target come amico di Facebook.
 
-In ogni caso per mimetizzarti al meglio, ti serviranno una serie di servizi al fine di ottimizzare il tuo ambiente di lavoro e rendere il tuo sockpuppet il più sicuro possibile.
-Qui sotto troverai una serie di strumenti utili al fine di creare un profilo social che ti renda quanto più possibile credibile agli occhi del social stesso e dei suoi sistemi anti fake. 
+In ogni caso per mimetizzarti al meglio, ti serviranno una serie di servizi al fine di ottimizzare 
+il tuo ambiente di lavoro e rendere il tuo sockpuppet il più sicuro possibile.
+Qui sotto troverai una serie di strumenti utili al fine di creare un profilo social che 
+ti renda quanto più possibile credibile agli occhi del social stesso e dei suoi sistemi anti fake. 
 ```
 **Quali sono i passi da fare?**
 ```
