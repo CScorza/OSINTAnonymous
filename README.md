@@ -2,10 +2,10 @@
 
 **INDICE**
 
-|[**CREAZIONE DI UN IDENTITÁ**](https://github.com/CScorza/OSINTAnonimus#creazione-di-un-identit%C3%A1)|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**|
-| :--- | :---: | :---: | :---: | :---: |
+|[**CREAZIONE DI UN IDENTITÁ**](https://github.com/CScorza/OSINTAnonimus#creazione-di-un-identit%C3%A1)|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**||
+| :--- | :---: | :---: | :---: | :---: | :---: |
 |[**METTIAMO LA PRIVACY NEI NOSTRI PROFILI SOCIAL**](https://github.com/CScorza/OSINTAnonymous#mettiamo-la-privacy-nei-nostri-profili-social)|**Facebook**|**Instagram**|**Telegram**|**WhatsApp**|
-|[**CREAZIONE DELL'AMBIENTE DI LAVORO**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|[**VPN**](https://github.com/CScorza/Data-Protection#alto)|[**VIRTUALIZZAZIONE**](https://github.com/CScorza/DistroForensics#software-di-virtualizzazione)|[**ISO per L'OSINT**](https://github.com/CScorza/DistroForensics#iso)|[**E- mail Sicure**](https://github.com/CScorza/OSINTAnonymous#email-sicure)|
+|[**CREAZIONE DELL'AMBIENTE DI LAVORO**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|[**VPN**](https://github.com/CScorza/Data-Protection#alto)|[**VIRTUALIZZAZIONE**](https://github.com/CScorza/DistroForensics#software-di-virtualizzazione)|[**Ambiente Isolato**]()|[**ISO per L'OSINT**](https://github.com/CScorza/DistroForensics#iso)|[**E- mail Sicure**](https://github.com/CScorza/OSINTAnonymous#email-sicure)|
 |[**Fonti**](https://github.com/CScorza/OSINTAnonymous#fonti)|||||
 
 
@@ -239,7 +239,7 @@ Per cifrare e decifrare le email viene utilizzata l’infrastruttura a chiave pu
 che assegna a ogni persona una chiave pubblica e una privata sotto forma di codici digitali.
 
 La chiave pubblica viene conservata su un server insieme al nome e all’indirizzo email dell’utente, 
-ed è accessibile a chiunque. La chiave pubblica serve per criptare le emai
+ed è accessibile a chiunque. La chiave pubblica serve per criptare le e-mail
 
 ```
 
@@ -272,6 +272,30 @@ chiunque, quindi, può mettere a disposizione un proprio computer per creare un 
 
 cybersecurity360.it
 ```
+# Creazione di un Ambiente Isolato
+
+|![Windows Sanbox](https://user-images.githubusercontent.com/98583912/208118204-4ce929ff-c3a0-4291-b313-75447a7ecc0f.gif)|[**Windows SandBox**](https://learn.microsoft.com/it-it/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)|Sandbox di Windows offre un ambiente desktop leggero per eseguire in modo sicuro le applicazioni in isolamento. Il software installato all'interno dell'ambiente Sandbox di Windows rimane "sandboxed" ed eseguito separatamente dal computer host. Una sandbox è temporanea.|
+| :--- | :--- | :--- |
+
+
+|![QubesOS](https://user-images.githubusercontent.com/98583912/208115558-edee54fa-065c-45e8-b3bc-710319137959.gif)|[**QubesOS**](https://www.qubes-os.org/)|Qubes OS è un sistema operativo desktop incentrato sulla sicurezza che mira a fornire sicurezza attraverso l'isolamento. La virtualizzazione è eseguita da Xen e può essere utilizzato in ambienti utente Fedora, Debian, Whonix e Microsoft Windows, tra gli altri sistemi operativi.|
+| :--- | :--- | :--- |
+
+
+**Software di Gestione dei Container**
+```
+I software container si possono definire come una tecnologia di virtualizzazione del sistema operativo che 
+permette di eseguire un processo, o un insieme di processi software, in uno spazio isolato, 
+rispetto al resto del sistema operativo ospitante (host), che può essere, 
+ad esempio, una distribuzione Linux (Ubuntu, RHEL, CentoOS, Debian, SUSE),
+Microsoft Windows o altro.
+```
+|[**Docker**](https://www.docker.com/)|[**AWS Fargate**](https://aws.amazon.com/fargate/)|[**Google Kubernetes Engine**](https://cloud.google.com/kubernetes-engine)|[**Amazon ECS**](https://aws.amazon.com/it/ecs/)|[**LXC**](https://linuxcontainers.org/)|
+| :--- | :--- | :--- | :--- | :--- |
+[**Microsoft Azure**](https://azure.microsoft.com/it-it/)|[**Google Cloud Platform**](https://cloud.google.com/)|[**Portainer**](https://www.portainer.io/)|[**Apache Mesos**](https://mesos.apache.org/)|
+
+
+
 # FONTI
 
 |[**Creating Research Accounts for OSINT Investigations**](https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations/)|
