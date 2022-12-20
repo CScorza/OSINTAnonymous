@@ -2,7 +2,7 @@
 
 **INDICE**
 
-|[**CREAZIONE DI UN IDENTITÁ**](https://github.com/CScorza/OSINTAnonimus#creazione-di-un-identit%C3%A1)|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**||
+|[**CREAZIONE DI UN'IDENTITÁ**](https://github.com/CScorza/OSINTAnonimus#creazione-di-un-identit%C3%A1)|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**||
 | :--- | :---: | :---: | :---: | :---: | :---: |
 |[**METTIAMO LA PRIVACY NEI NOSTRI PROFILI SOCIAL**](https://github.com/CScorza/OSINTAnonymous#mettiamo-la-privacy-nei-nostri-profili-social)|**Facebook**|**Instagram**|**Telegram**|**WhatsApp**|
 |[**CREAZIONE DELL'AMBIENTE DI LAVORO**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|[**VPN**](https://github.com/CScorza/Data-Protection#alto)|[**VIRTUALIZZAZIONE**](https://github.com/CScorza/DistroForensics#software-di-virtualizzazione)|[**Ambiente Isolato**]()|[**ISO per L'OSINT**](https://github.com/CScorza/DistroForensics#iso)|[**E- mail Sicure**](https://github.com/CScorza/OSINTAnonymous#email-sicure)|
@@ -114,7 +114,7 @@ Di recente Telegram ha anche integrato questo servizio.
 
 # METTIAMO LA PRIVACY NEI NOSTRI PROFILI SOCIAL
 
-![Centro assistenza di Facebo](https://user-images.githubusercontent.com/98583912/206856426-9e9595a4-e2ed-48f4-8680-bf8dee2c4065.gif)
+![Centro assistenza di Facebook](https://user-images.githubusercontent.com/98583912/206856426-9e9595a4-e2ed-48f4-8680-bf8dee2c4065.gif)
 
 [**Facebook**](https://it-it.facebook.com/help/193677450678703?cms_platform=www&helpref=platform_switcher)
 
@@ -233,7 +233,7 @@ Come aumentare il livello di privacy del tuo profilo Telegram o in caso di bisog
 
 # Email Sicure
 
-**Cos'è la Criptografia?**
+**Cos'è la Crittografia?**
 ```
 La crittografia delle email consiste nel rimescolarne il contenuto, come se si trattasse dei 
 pezzi di un puzzle che solo tu puoi risolvere (con la tua chiave privata). 
@@ -247,8 +247,8 @@ ed è accessibile a chiunque. La chiave pubblica serve per criptare le e-mail
 
 ![Immagine7](https://user-images.githubusercontent.com/98583912/207672758-d4afb001-4007-48b3-b6ab-de4e05b2b5e6.gif)
 
-|[**ProtonMail**](https://proton.me/mail)|[**Mailbox**](https://mailbox.org/en/)|[**Mailfence**](https://mailfence.com/)|[**Kolab Now**](https://kolabnow.com/)|
-| :--- | :--- | :--- | :--- |  
+|[**ProtonMail**](https://proton.me/mail)|[**Mailbox**](https://mailbox.org/en/)|[**Mailfence**](https://mailfence.com/)|[**Kolab Now**](https://kolabnow.com/)|[**Tutanota**](https://tutanota.com/)|
+| :--- | :--- | :--- | :--- | :--- |  
 
 
 **Deep Web**
