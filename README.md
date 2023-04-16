@@ -1,5 +1,8 @@
 ![Immagine7](https://user-images.githubusercontent.com/98583912/210838221-5084e08b-131b-40f0-8ade-06a71d68bec6.gif)
 
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+
+
 **INDICE**
 
 |[**CREAZIONE DI UN'IDENTITÁ**](https://github.com/CScorza/OSINTAnonimus#creazione-di-un-identit%C3%A1)|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**||
