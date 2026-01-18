@@ -73,7 +73,7 @@ Evita qualsiasi collegamento con i tuoi account reali
 | :--- | :--- | :--- | :--- | :--- |
 |[**Free Online Phone**](http://www.freeonlinephone.org/)|[**Pinger**](http://www.pinger.com/tfw/)|[**DrFone Wondershare - Receive Message Online**](https://drfone.wondershare.com/message/receive-message-online.html)|[**Messages Text Free.us**](https://messages.textfree.us/login)|[**TextFree.us**](https://textfree.us/)
 |[**My Trash Mobile**](https://www.mytrashmobile.com/numbers)|[**Eeceive SMS Online**](https://www.receivesmsonline.net/)|[**Text Now**](https://www.textnow.com/)|[**Russia - SMS C**](http://smsc.ru/)|
-|**Numeri Russi**|[**RUSSIA - SMS KA**](http://smska.us/)|[**RUSSIA - Online SIM**](http://onlinesim.ru/)|[**Russia - SMS C**](http://smsc.ru/)||
+|**Numeri Russi**|[**RUSSIA - SMS KA**](http://smska.us/)|[**RUSSIA - Online SIM**](http://onlinesim.ru/)|||
 |**Numeri USA**|[**USA - HS3X**](http://hs3x.com/)|[**USA - proovl**](http://proovl.com/)|[**USA - Sellaite**](http://sellaite.com/)|[**INT - Sonetel**](http://sonetel.com/)||
 |[**INT - Zadarma**](http://zadarma.com/)|[**SMS Online.co**](http://sms-online.co/)|[**SMS Receive.net**](http://sms-receive.net/)|[**Receive a SMS.com**](http://receive-a-sms.com/)|[**Receive Free SMS.com**](http://receivefreesms.com/)
 |[**Receive SMS Now.com**](http://receive-sms-now.com/)|[**Receive SMS Online.com/**](http://receivesmsonline.com/)|[**Receive SMS Online.info**](http://receive-sms-online.info/)|[**Get Free SMS Number.com**](http://getfreesmsnumber.com/)|[**Receive SMS Verification.com**](http://receivesmsverification.com/)|
@@ -83,7 +83,7 @@ Evita qualsiasi collegamento con i tuoi account reali
 
 |[**simsms.org**](http://simsms.org/)|[**smsvk.net**](http://smsvk.net/)|[**sms-reg.com**](http://sms-reg.com/)|[**sms-area.org**](http://sms-area.org/)|
 |:--- | :--- | :--- | :--- |
-|[**givsms-reg.come-sms.com**](http://givsms-reg.come-sms.com/)|[**sms-activate.r**](http://sms-activate.ru/)|[**getsms.online**](http://getsms.online/)||
+|[**givsms-reg.come-sms.com**](http://givsms-reg.come-sms.com/)|[**onlinesim**](https://onlinesim.io/v2/ref)|[**getsms.online**](http://getsms.online/)||
 |**Numeri Russi**||[**smslike.ru**](http://smslike.ru/)|[**virtualsms.ru**](http://virtualsms.ru/)||
 |[**Twilio**](http://twilio.com/)|[**Vumber**](http://vumber.com/)|[**Esendex**](http://esendex.co.uk/)|[**Text Magic**](http://textmagic.com/)
 |[**WP Pinger**](http://wp.pinger.com/)|[**Burst SMS.com**](http://burstsms.com.au/)|[**Country Code.org**](http://countrycode.org/)||
