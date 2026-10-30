@@ -62,6 +62,7 @@ Evita qualsiasi collegamento con i tuoi account reali
 | :--- | :--- |
 |[**fakemailgenerator**](http://www.fakemailgenerator.com/**gustr.com/Casly1981/)|**Fake Mail Generator - Free temporary email addresses**|
 |[**guerrillamail**](http://guerrillamail.com/)|**✉ Guerrilla Mail - E.mail temporanea**|
+|[**TempMail Hub**](https://tempmailhub.net/)|**Free temporary email, no signup, 28 languages, selectable inbox lifetime**|
 
 **SMS**
 
